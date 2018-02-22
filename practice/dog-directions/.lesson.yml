@@ -1,0 +1,8 @@
+---
+title: "Dog Directions"
+type: "exercise"
+description: "Follow along while making a recipe using React stateful components"
+tags: "javascript, react, stateful components"
+ignore:
+- "node_modules/"
+- "dog-directions.md"

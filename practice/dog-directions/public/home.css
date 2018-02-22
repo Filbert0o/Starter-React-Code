@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=ABeeZee|Open+Sans');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.selected {
+  background-color: #CAD4DE;
+}

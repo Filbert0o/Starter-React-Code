@@ -1,0 +1,18 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+img {
+  height: 20rem;
+  width: 70%;
+  margin-top: 2rem;
+}
+
+.box-div {
+  border: 1px solid black;
+  margin-top: 2rem;
+}
+
+.selected {
+  text-decoration: line-through;
+}

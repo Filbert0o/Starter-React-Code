@@ -1,0 +1,24 @@
+body {
+  background-color: #effde3;
+
+}
+
+h1 {
+  color: #45ba89;
+}
+
+h2 {
+  color: #3c9bc3;
+}
+
+ul {
+  color: #358DF7;
+}
+
+li {
+   padding: 5px;
+}
+
+.selected {
+  color: #f66923;
+}

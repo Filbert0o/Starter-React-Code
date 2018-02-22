@@ -1,0 +1,23 @@
+/* YOUR STYLING HERE */
+
+
+.fa.fa-plus {
+  color: white;
+  background-color: $black;
+  padding: .5rem;
+  margin-right: .5rem;
+}
+
+.fa.fa-minus {
+  background-color: $green;
+  padding: .5rem;
+  margin-right: .5rem;
+}
+
+body {
+  background-color: $light-blue;
+}
+
+h1 {
+  color: $blue;
+}

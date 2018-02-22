@@ -1,0 +1,11 @@
+---
+title: "Travel Tracker"
+type: "exercise"
+description: "Create a Travel Tracker in React"
+tags: "React, stateful components, stateless components, nested components"
+behaviors:
+  - react_on_node
+ignore:
+- "node_modules/"
+- "travel-tracker.md"
+---
